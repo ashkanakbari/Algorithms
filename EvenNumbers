@@ -1,0 +1,7 @@
+var number;
+var sum = 0;
+for(number =0;number<101; number+=2){
+sum+=number;
+console.log(number);
+}
+alert(sum);
